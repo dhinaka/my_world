@@ -1,0 +1,3 @@
+pandas==0.25.3
+tweepy==4.1.0
+pytest==6.2.5
